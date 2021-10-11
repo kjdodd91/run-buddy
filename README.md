@@ -12,3 +12,5 @@ https://kjdodd91.github.io/run-buddy/
 
 ##Contribution
 Made with ❤️ by Kenneth Dodd
+
+### ©️2019 Run Buddy, Inc 
